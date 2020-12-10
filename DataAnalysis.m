@@ -1,4 +1,5 @@
 %%
+%Code written by: Daniel Stapleton and Felix Adonoo
 %All Fits below performed with each other fit commented out. Each begins
 %with reading in and then plotting the data. Choosing which data to fit is
 %done using idx command and observing plot of data. Curve-fitting tool then
