@@ -1,0 +1,41 @@
+# Source: PTFS1122ah
+# Coordinates: 339.14206 -14.55617
+# Epoch Units: PTFHJD
+#
+# Column definitions
+# ------------------
+# lcType: s = detected on reference image, t = transient
+# filterID: 1 = g', 2 = R
+# fieldID: PTF Field ID
+# chipID: PTF Chip ID
+# sourceID: Source ID
+# epoch: Time of observation
+# mag: calibrated magnitude
+# magErr: calibrated magnitude error
+# sextractorFlags: sextractor flags from detection
+# ipacFlags: see documentation
+# relPhotFlags: relative photometry flags
+# limitMag: Magnitude at which 95% of source in reference image are detected
+#           in this exposure
+#
+# lcType filterID fieldID chipID sourceID epoch mag magerr sextractorFlags ipacFlags relPhotFlags limitMag
+t 02 002064 00 00150 182.46389530 17.457 0.014 0 2 0 20.90
+t 02 002064 00 00150 182.46997578 17.492 0.014 0 2 0 20.88
+t 02 002064 00 00150 194.49554765 18.290 0.052 0 2 0 19.28
+t 02 002064 00 00150 205.40376964 15.488 0.542 0 2 4 15.94
+t 02 002064 00 00150 205.43977153 17.049 0.012 0 2 0 20.58
+t 02 002064 00 00150 210.46761759 16.642 0.008 0 2 0 20.99
+t 02 002064 00 00150 211.28491415 16.727 0.013 0 2 0 19.85
+t 02 002064 00 00150 216.27308577 17.416 0.048 0 2 0 17.76
+t 02 002064 00 00150 216.36465912 17.404 0.036 0 2 0 18.96
+t 02 002064 00 00150 597.27869791 15.395 0.006 0 2 0 19.72
+t 02 002064 00 00150 597.32240842 15.432 0.006 0 2 0 19.81
+t 02 002064 00 00150 604.25780824 16.863 0.014 0 2 0 19.67
+t 02 002064 00 00150 604.30146824 16.951 0.013 0 2 0 19.82
+t 02 002064 00 00150 615.27363692 18.002 0.018 0 2 0 20.68
+t 02 002064 00 00150 615.31685612 18.032 0.017 0 2 0 21.11
+t 02 002064 00 00150 620.31485347 18.196 0.022 0 2 0 20.59
+t 02 002064 00 00150 620.35843231 18.165 0.022 0 2 0 20.54
+t 02 002064 00 00150 623.34078551 18.457 0.031 0 2 0 20.23
+t 02 002064 00 00150 623.38460413 18.428 0.035 0 2 0 20.10
+t 02 002064 00 00150 2079.30835523 17.850 0.038 0 2 0 19.33
